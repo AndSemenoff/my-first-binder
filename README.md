@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndSemenoff/my-first-binder/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndSemenoff/my-first-binder/HEAD?labpath=start.ipynb)
