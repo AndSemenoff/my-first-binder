@@ -4,3 +4,4 @@ numpy>=1.14.5
 requests>=2.14.2
 lxml>=4.5.1
 yfinance>=0.1.70
+matplotlib>=3.4
